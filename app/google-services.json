@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680825979730",
+    "project_id": "let-s-learn-java",
+    "storage_bucket": "let-s-learn-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680825979730:android:b651f3af3afb5315d2308b",
+        "android_client_info": {
+          "package_name": "com.example.letslearnjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUVOtd2reBAWIicxNbWMexjcKGnbkt-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
